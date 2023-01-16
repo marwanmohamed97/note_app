@@ -30,22 +30,3 @@ class CustomButton extends StatelessWidget {
     );
   }
 }
-
-// MaterialButton(
-//       padding: const EdgeInsets.symmetric(vertical: 20),
-//       onPressed: () {},
-//       child: Container(
-//         height: 55,
-//         decoration: BoxDecoration(
-//           color: kprimaryColor,
-//           borderRadius: BorderRadius.circular(8),
-//         ),
-//         child: const Center(
-//           child: Text(
-//             'Add',
-//             style: TextStyle(
-//                 color: Colors.black, fontSize: 20, fontWeight: FontWeight.bold),
-//           ),
-//         ),
-//       ),
-//     )
