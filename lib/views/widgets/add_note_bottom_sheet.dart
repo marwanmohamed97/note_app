@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:modal_progress_hud_nsn/modal_progress_hud_nsn.dart';
-import 'package:note_application/cubits/cubit/add_note_cubit.dart';
 import 'add_note_form.dart';
+import '../../cubits/add_note_cubit/add_note_cubit.dart';
 
 class AddNotebottomSheet extends StatelessWidget {
   const AddNotebottomSheet({Key? key}) : super(key: key);
